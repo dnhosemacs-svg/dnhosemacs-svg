@@ -1,37 +1,30 @@
-<!--
-README de perfil de GitHub
+[Tu nombre]
 
-1. Sustituye cada [COMPLETAR: ...] por tu texto real.
-2. Borra este bloque de comentario antes de publicar (opcional).
--->
+[COMPLETAR: quién eres, formación o trayectoria previa y cómo llegaste a programar.]
 
-[Tu nombre o cómo quieres que te llamen en el perfil]
-
-[Párrafo 1 — quién eres y de dónde vienes: formación, trayectoria previa o cómo llegaste a programar. Dos o tres frases, tono natural.]
-
-[Párrafo 2 — qué haces hoy y qué te interesa: tipo de productos, frontend, apps internas, cuidado de la UI, etc.]
+Construyo y documento proyectos web en **modo estudiante**: apuntes propios por tecnología y práctica en apps con React, Next.js, APIs REST y despliegue en Vercel.
 
 **Tecnología**
 
-[COMPLETAR: tecnología 1] · [COMPLETAR: tecnología 2] · [COMPLETAR: tecnología 3] · [COMPLETAR: tecnología 4] · [COMPLETAR: tecnología 5]
+React · TypeScript · JavaScript · Next.js · Vite · Tailwind CSS · shadcn/ui · Zustand · TanStack Query · Node.js · Express · Prisma · PostgreSQL · Neon · Auth.js · Firebase · Zod · CSS · Git · Vercel
 
 ---
 
 **Proyectos destacados**
 
-- **[COMPLETAR: nombre del proyecto](https://github.com/dnhosemacs-svg/COMPLETAR-repo)** — [COMPLETAR: una frase sobre qué hace y por qué lo destacas.]
+- **[nextjs-boilerplate](https://github.com/dnhosemacs-svg/nextjs-boilerplate)** — App full stack para un taller de carpintería: autenticación (Auth.js, Firebase, OAuth), roles, inventario, pedidos y APIs con Prisma y PostgreSQL. [Demo en Vercel](https://nextjs-boilerplate-sigma-eosin-30.vercel.app/)
 
-- **[COMPLETAR: nombre del proyecto](https://github.com/dnhosemacs-svg/COMPLETAR-repo)** — [COMPLETAR: descripción breve.]
+- **[FlashLearn](https://github.com/dnhosemacs-svg/FlashLearn)** — Micro-app de flashcards para repaso rápido, con persistencia en LocalStorage y opción de API.
 
-- **[COMPLETAR: nombre del proyecto](https://github.com/dnhosemacs-svg/COMPLETAR-repo)** — [COMPLETAR: descripción breve. Opcional: demo — https://tu-app.vercel.app]
+- **[taskflow-project](https://github.com/dnhosemacs-svg/taskflow-project)** — Proyecto base de gestión de tareas; punto de partida de la migración posterior a Next.js.
 
 ---
 
 **Me gustaría seguir creciendo**
 
-[COMPLETAR: tema 1] · [COMPLETAR: tema 2] · [COMPLETAR: tema 3] · [COMPLETAR: tema 4]
+Diseño de interfaces · APIs REST · Autenticación y autorización · Modelado de datos con Prisma
 
-Actualmente explorando [COMPLETAR: qué estás aprendiendo ahora, en una frase].
+Actualmente explorando inventario, reservas de stock, roles de usuario y migración de pedidos en aplicaciones Next.js.
 
 ---
 
