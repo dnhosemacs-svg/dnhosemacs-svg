@@ -1,10 +1,16 @@
-[Tu nombre]
+José Manuel López Viedma
 
-[COMPLETAR: quién eres, formación o trayectoria previa y cómo llegaste a programar.]
+Soy desarrollador de aplicaciones web. Acabo de terminar el ciclo formativo de grado superior y estoy dando el salto de la industria al desarrollo: antes trabajé en montaje industrial, donde aprendí a cumplir plazos, seguir procesos y cuidar el detalle — habilidades que hoy aplico al escribir código.
+Me interesa el desarrollo full stack con React, TypeScript y Next.js: interfaces claras, APIs REST, autenticación y bases de datos (Prisma, PostgreSQL). En este perfil comparto proyectos reales con demo desplegada, no solo ejercicios de clase.
 
-Construyo y documento proyectos web en **modo estudiante**: apuntes propios por tecnología y práctica en apps con React, Next.js, APIs REST y despliegue en Vercel.
+## Qué aporto
+- **Perfil full stack junior** con proyectos desplegados y repositorios públicos
+- **Mentalidad de producción**: rigor, documentación y atención al detalle (heredada de la industria)
+- **Stack actual**: React, TypeScript, Next.js, Node.js, Prisma, PostgreSQL
+- **Proactividad**: sigo formándome en auth, APIs, modelado de datos y UX
 
-**Tecnología**
+
+**Tecnologías**
 
 React · TypeScript · JavaScript · Next.js · Vite · Tailwind CSS · shadcn/ui · Zustand · TanStack Query · Node.js · Express · Prisma · PostgreSQL · Neon · Auth.js · Firebase · Zod · CSS · Git · Vercel
 
@@ -30,5 +36,4 @@ Actualmente explorando inventario, reservas de stock, roles de usuario y migraci
 
 **Contacto**
 
-- [COMPLETAR: tu@email.com](mailto:COMPLETAR:tu@email.com)
-- [LinkedIn](https://www.linkedin.com/in/COMPLETAR-perfil/)
+- jose.manuel.lopez.viedma@gmail.com
